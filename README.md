@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently doing PhD in mathematics
-- 🌱 I’m currently learning Haskell programming language
+### 🔭 I’m currently doing PhD in mathematics
+### 🌱 I’m currently learning Haskell programming language
 
